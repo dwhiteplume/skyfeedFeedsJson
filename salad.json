@@ -1,0 +1,23 @@
+{
+    "displayName": "Salad 🥗",
+    "blocks": [
+        {
+            "id": "aaao6nvsqa672",
+            "type": "input",
+            "inputType": "firehose"
+        },
+        {
+            "id": "aaao6nvsqbbss",
+            "type": "regex",
+            "value": "salad|🥗",
+            "caseSensitive": false,
+            "target": "text|alt_text"
+        },
+        {
+            "id": "aaao6nvsqb5te",
+            "type": "sort",
+            "sortType": "created_at"
+        }
+    ],
+    "license": "EUPL-1.2"
+}
