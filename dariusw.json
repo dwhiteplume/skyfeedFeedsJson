@@ -1,0 +1,17 @@
+{
+    "displayName": "dariusw",
+    "blocks": [
+        {
+            "id": "aaao6cc4k2gdo",
+            "type": "input",
+            "inputType": "did",
+            "did": "did:plc:5pczeahw5sgryk6lawg3cz7e"
+        },
+        {
+            "id": "aaao6cc4k3zsc",
+            "type": "sort",
+            "sortType": "created_at"
+        }
+    ],
+    "license": "EUPL-1.2"
+}
