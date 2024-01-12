@@ -1,0 +1,28 @@
+{
+    "displayName": "Cool Comic Book Covers",
+    "blocks": [
+        {
+            "id": "aaap3otjkbwkg",
+            "type": "input",
+            "inputType": "firehose"
+        },
+        {
+            "id": "aaap3otjkd5ea",
+            "type": "remove",
+            "subject": "item",
+            "value": "reply"
+        },
+        {
+            "id": "aaap3otjkcjqm",
+            "type": "regex",
+            "value": "post a cool comic book cover",
+            "caseSensitive": false
+        },
+        {
+            "id": "aaap3otjkb7gc",
+            "type": "sort",
+            "sortType": "created_at"
+        }
+    ],
+    "license": "EUPL-1.2"
+}
